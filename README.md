@@ -1,0 +1,1 @@
+This is my first project from high school. I made the game "Who wants to be a millionaire" in a text-based version, programmed with python. Just download the file and and run the code to play the game.
